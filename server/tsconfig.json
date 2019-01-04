@@ -6,7 +6,6 @@
         "preserveConstEnums": true,
         "sourceMap": false,
         "watch": false,
-        "allowJs": true,
         "lib": [
             "es5",
             "es2015",
